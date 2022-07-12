@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 
 public class Main {
+
     public static String userChoosingPath(){
         Scanner userInput = new Scanner(System.in);
         String caveNumber = userInput.nextLine();
